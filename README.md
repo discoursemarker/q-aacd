@@ -1,6 +1,6 @@
 # Q-AACD Dataset
 
-Welcome to the **Q-AACD Dataset** repository! This dataset is designed for creating and analyzing English vocabulary learning materials, such as multiple-choice quizzes, aimed at improving language proficiency in educational and research contexts.
+Welcome to the **Q-AACD Dataset** repository! This dataset is AI-generated and consists of fill-in-the-blank questions designed to facilitate vocabulary learning. Each question includes a sentence, the correct answer, and distractors (incorrect options). Distractors are flagged with metadata (D1, D2, D3), where a value of `1` indicates that the distractor requires revision. This dataset is ideal for tasks such as correcting distractors or developing vocabulary learning materials.
 
 ## Dataset Overview
 
@@ -14,14 +14,9 @@ The Q-AACD dataset includes:
 - **Notes**: Additional notes for context or issues.
 
 ### Example Entry:
-| ID | Target    | Question                                             | Correct Answer | Distractor 1 | Distractor 2 | Distractor 3 | Notes       |
-|----|-----------|-----------------------------------------------------|----------------|--------------|--------------|--------------|-------------|
-| 1  | adhere    | It is important to \<blank\> to the rules and guidelines. | adhere         | ignore       | oppose       | violate      |             |
-
-## Use Cases
-- Developing vocabulary quizzes for educational apps.
-- Training AI models for natural language understanding and assessment.
-- Conducting research on vocabulary acquisition and testing.
+| ID | Target    | Question                                             | Correct Answer | Distractor 1 | Distractor 2 | Distractor 3 | D1 | D2 | D3 | Notes       |
+|----|-----------|-----------------------------------------------------|----------------|--------------|--------------|--------------|----|----|----|-------------|
+| 1  | adhere    | It is important to \<blank\> to the rules and guidelines. | adhere         | ignore       | oppose       | violate      | 0  | 0  | 0  |             |
 
 ## How to Use
 1. Clone this repository:
@@ -42,7 +37,9 @@ This dataset is released under the [MIT License](LICENSE).
 ## Contributions
 We welcome contributions to improve the dataset, fix errors, or add new features. Please submit a pull request or open an issue to discuss your ideas.
 
+## Citation
+TBA
+
 ## Contact
 For questions or support, please contact [kyudai.uchida.lab[at]gmail.com].
-
 
