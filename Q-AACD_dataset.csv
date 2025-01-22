@@ -1,0 +1,301 @@
+﻿ID,Target,Question,Correct Answer,Distractor 1,Distractor 2,Distractor 3,D1,D2,D3,notes
+1,adhere,It is important to <blank> to the rules and guidelines to ensure everyone's safety.,adhere,ignore,oppose,violate,0,0,0,
+2,affection,"The puppy showed great <blank> for its owner, always wagging its tail and following her everywhere.",affection,confusion,anger,fear,0,0,0,
+3,affiliate,The local charity is an <blank> of a larger international organization that helps people in need.,affiliate,opponent,competitor,rival,0,1,1,a/an issue
+4,alliance,The two countries formed an <blank> to work together on economic and security issues.,alliance,argument,conflict,division,0,1,1,a/an issue
+5,allot,The teacher decided to <blank> extra time for the students to complete their projects.,allot,borrow,spend,remove,0,0,0,
+6,allowance,"Every month, her parents give her a small <blank> to spend on things she likes.",allowance,loan,bonus,salary,0,1,0,more than one answer
+7,amendment,The government proposed an <blank> to the law to address the recent concerns raised by citizens.,amendment,agreement,announcement,argument,0,0,0,
+8,apparatus,The scientist carefully adjusted the <blank> to ensure the experiment would work correctly.,apparatus,substance,formula,diagram,1,1,0,more than one answer
+9,arithmetic,"In school, we learned basic <blank> like addition, subtraction, multiplication, and division.",arithmetic,geometry,algebra,calculus,0,0,0,
+10,assertion,The scientist made an <blank> that the new treatment could significantly improve patient outcomes.,assertion,assumption,question,hesitation,1,1,1,"a/an issue, more than one answer"
+11,bald,He decided to shave his head completely and now he is <blank>.,bald,tall,thin,curly,0,0,0,
+12,barbarous,"The treatment of prisoners in the old days was often considered <blank>, showing no respect for human dignity.",barbarous,generous,civilized,compassionate,0,0,0,
+13,bargain,I found a great <blank> at the market today; the price was much lower than I expected.,bargain,expense,offer,purchase,0,1,0,more than one answer
+14,bid,"The company made a <blank> to take over the smaller business, but it was rejected.",bid,plan,offer,request,1,1,1,"a/an issue, more than one answer"
+15,biography,I just finished reading a fascinating <blank> about the life of a famous scientist.,biography,novel,poem,manual,1,0,0,more than one answer
+16,blunt,"The knife was too <blank> to cut through the bread, so we had to use another one.",blunt,sharp,smooth,thin,0,0,0,
+17,breach,"The company faced a serious <blank> of customer data, which led to a loss of trust.",breach,growth,protection,increase,0,0,0,
+18,breadth,The <blank> of her knowledge on the subject impressed everyone in the room.,breadth,height,depth,length,0,1,0,more than one answer
+19,breakdown,"The car had a sudden <blank> on the highway, causing a long traffic jam.",breakdown,explosion,collision,shortcut,0,0,0,
+20,bribe,The politician was accused of trying to offer a <blank> to the official in exchange for favorable treatment.,bribe,gift,loan,reward,1,0,1,more than one answer
+21,bribery,The politician was accused of accepting <blank> to influence his decisions on the new law.,bribery,charity,loyalty,honesty,0,0,0,
+22,brisk,"The weather was perfect for a <blank> walk in the park, with a cool breeze and clear skies.",brisk,slow,lazy,dull,1,1,0,more than one answer
+23,bruise,"After falling off his bike, he had a large <blank> on his arm that turned purple the next day.",bruise,scar,cut,rash,0,0,0,
+24,brutal,The movie was so <blank> that many people left the theater because they couldn't handle the intense scenes.,brutal,boring,funny,gentle,0,0,0,
+25,bulk,"The store offers discounts for customers who buy in <blank>, encouraging them to purchase larger quantities.",bulk,pieces,parts,sections,0,0,0,
+26,bulletin,The school posted a <blank> on the notice board to inform students about the upcoming event.,bulletin,poster,advertisement,pamphlet,1,1,1,"a/an issue, more than one answer"
+27,bunch,She bought a <blank> of bananas from the market to make smoothies for the week.,bunch,pile,stack,group,1,1,0,more than one answer
+28,candid,"During the interview, she gave a very <blank> answer about her previous job experience, which impressed the panel.",candid,vague,dishonest,reserved,0,0,0,
+29,capricious,The weather in this region is so <blank> that you never know if it will be sunny or rainy in the next hour.,capricious,predictable,stable,consistent,0,0,0,
+30,catastrophe,"The earthquake caused a major <blank>, leaving thousands of people homeless and in need of help.",catastrophe,celebration,opportunity,improvement,0,0,0,
+31,ceiling,The room felt much bigger after they painted the <blank> white.,ceiling,floor,wall,window,1,1,0,more than one answer
+32,certificate,"After completing the course, she received a <blank> to prove her achievement.",certificate,license,receipt,contract,1,0,0,more than one answer
+33,cherish,It is important to <blank> the moments you spend with your loved ones because time passes quickly.,cherish,ignore,waste,forget,0,0,0,
+34,clash,"The two teams had a <blank> of colors, making it hard to tell them apart during the game.",clash,blend,match,harmony,0,0,0,
+35,clumsy,He is very <blank> and often drops things or bumps into furniture.,clumsy,graceful,careful,skilled,0,0,0,
+36,collide,The two cars were going so fast that they didn’t have time to stop and <blank> at the intersection.,collide,avoid,pass,stop,0,0,0,
+37,collision,The two cars were damaged after a <blank> at the intersection.,collision,discussion,decision,explosion,0,0,1,a/an issue
+38,combat,The government is taking steps to <blank> the spread of misinformation online.,combat,promote,ignore,accept,0,0,0,
+39,commence,"The ceremony will <blank> at 10 a.m., so please make sure to arrive on time.",commence,conclude,pause,interrupt,0,0,0,
+40,commitment,"Achieving success in any field requires hard work, dedication, and a strong <blank> to your goals.",commitment,opinion,interest,preference,0,0,0,
+41,compel,The teacher tried to <blank> the students to complete their homework by explaining its importance.,compel,ignore,discourage,permit,0,0,0,
+42,competence,The job requires a high level of <blank> in both written and spoken communication.,competence,confidence,intelligence,experience,1,1,1,more than one answer
+43,competent,"To be successful in this role, you need to be <blank> in handling various tasks efficiently.",competent,confused,careless,hesitant,0,0,0,
+44,comply,Employees are required to <blank> with the company's safety regulations at all times.,comply,ignore,violate,oppose,0,0,0,
+45,compression,"The file size was reduced significantly after applying <blank>, making it easier to send via email.",compression,expansion,extension,reduction,0,0,0,
+46,comprise,"The committee will <blank> five members, each with a specific role to play in the project.",comprise,exclude,replace,separate,1,1,0,more than one answer
+47,conceive,It is difficult to <blank> how technology will change our lives in the next 50 years.,conceive,ignore,forget,reject,0,0,0,
+48,condemn,"The government was quick to <blank> the violent actions of the protesters, stating that such behavior was unacceptable.",condemn,support,ignore,praise,0,0,0,
+49,condense,The teacher asked the students to <blank> their essays to fit within the word limit.,condense,expand,elaborate,scatter,0,0,0,
+50,confer,The committee will <blank> with the experts to finalize the details of the project.,confer,argue,ignore,refuse,1,0,0,more than one answer
+51,confine,"During the quarantine, people were asked to <blank> themselves to their homes to prevent the spread of the virus.",confine,expand,release,explore,0,0,0,
+52,conform,"In order to join the club, members must <blank> to its rules and regulations.",conform,reject,oppose,ignore,0,0,0,
+53,conspicuous,The bright red car was so <blank> in the parking lot that everyone noticed it immediately.,conspicuous,ordinary,invisible,hidden,0,0,0,
+54,contemplation,"After a long day, she sat by the window in deep <blank>, thinking about her future.",contemplation,celebration,hesitation,imagination,0,0,0,
+55,contend,The athletes had to <blank> with difficult weather conditions during the marathon.,contend,avoid,ignore,celebrate,0,0,0,
+56,contour,"The map clearly shows the <blank> of the mountains, making it easier for hikers to plan their route.",contour,shadow,outline,surface,1,1,0,more than one answer
+57,cordial,The host was very <blank> and made everyone feel welcome at the party.,cordial,rude,distant,awkward,0,0,0,
+58,corrupt,The politician was accused of being <blank> after evidence showed he accepted bribes.,corrupt,honest,reliable,innocent,0,0,0,
+59,countenance,"Despite the difficult situation, she managed to keep a calm <blank> and reassured everyone around her.",countenance,gesture,attitude,expression,0,1,1,more than one answer
+60,counterpart,The new manager worked closely with her <blank> in the other department to ensure the project was successful.,counterpart,opponent,assistant,supervisor,0,0,1,more than one answer
+61,courteous,The waiter was very <blank> and made sure we had everything we needed during our meal.,courteous,rude,careless,impatient,0,0,0,
+62,courtesy,It is always a good idea to show <blank> when someone holds the door open for you.,courtesy,anger,confusion,silence,0,0,0,
+63,coverage,"The news channel provided live <blank> of the event, allowing viewers to see everything as it happened.",coverage,storage,protection,exposure,0,0,0,
+64,craft,The children learned how to <blank> a small boat using simple materials during the workshop.,craft,build,design,paint,1,1,1,more than one answer
+65,crucial,It is <blank> to wear a helmet while riding a bike to ensure your safety.,crucial,optional,unnecessary,irrelevant,0,0,0,
+66,crude,"The factory produces <blank> oil, which needs to be refined before it can be used.",crude,polished,synthetic,refined,0,1,0,more than one answer
+67,cynical,"He has such a <blank> attitude that he always assumes people have bad intentions, even when they are trying to help.",cynical,optimistic,trusting,cheerful,1,0,0,a/an issue
+68,decent,"The hotel was not luxurious, but it was clean and offered <blank> accommodation for the price.",decent,terrible,extravagant,inadequate,0,0,0,
+69,deception,The magician's trick was so clever that the audience didn't realize the <blank> until the end of the show.,deception,decision,direction,description,0,0,0,
+70,declaration,The president made a formal <blank> about the new policies during the press conference.,declaration,discussion,argument,announcement,0,0,1,more than one answer
+71,decline,The number of visitors to the museum began to <blank> after the new exhibition ended.,decline,increase,remain,improve,1,0,0,more than one answer
+72,decree,The government issued a <blank> to enforce new safety regulations across the country.,decree,proposal,request,suggestion,1,1,0,more than one answer
+73,defy,The young athlete managed to <blank> all expectations and win the championship despite being an underdog.,defy,accept,follow,ignore,0,0,0,
+74,denounce,"The journalist was brave enough to <blank> the corruption within the government, even though it put her at risk.",denounce,support,ignore,praise,0,0,0,
+75,deposit,"Before renting the apartment, you need to pay a <blank> to secure it.",deposit,loan,fine,fee,0,0,0,
+76,despise,He claimed to <blank> dishonesty and always valued honesty above all else.,despise,admire,tolerate,ignore,0,0,0,
+77,dictation,The teacher asked the students to listen carefully during the <blank> so they could write down everything correctly.,dictation,discussion,presentation,explanation,1,1,1,more than one answer
+78,diplomacy,The two countries avoided a war by using <blank> to resolve their disagreements.,diplomacy,violence,ignorance,confusion,0,0,0,
+79,disclosure,The company made a public <blank> about the changes to its privacy policy.,disclosure,decision,announcement,discussion,0,1,0,more than one answer
+80,disguise,The spy wore a clever <blank> to avoid being recognized during the mission.,disguise,costume,uniform,mask,0,0,0,
+81,dismissal,The sudden <blank> of the employee caused confusion among the team members.,dismissal,promotion,arrival,appointment,1,0,0,more than one answer
+82,disposition,"Her cheerful <blank> made her a favorite among her colleagues, as she was always positive and friendly.",disposition,decision,position,condition,0,0,0,
+83,dissolve,"When you add sugar to hot tea, it will <blank> completely, leaving no grains behind.",dissolve,melt,evaporate,freeze,1,0,0,more than one answer
+84,distort,"The funhouse mirrors are designed to <blank> your reflection, making you look taller, shorter, or wider than you really are.",distort,reflect,enhance,magnify,0,0,1,more than one answer
+85,distortion,"The photograph showed a clear <blank> of the original image, making it difficult to recognize the details.",distortion,reflection,impression,correction,0,0,0,
+86,doctrine,"The professor explained the main <blank> of the philosopher's teachings, which influenced many modern thinkers.",doctrine,opinion,habit,method,0,0,0,
+87,elaborate,Could you please <blank> on your idea so that we can understand it better?,elaborate,simplify,ignore,repeat,0,0,0,
+88,elastic,"The waistband of these pants is made of <blank> material, so it stretches easily to fit different sizes.",elastic,rigid,fragile,static,0,0,0,
+89,eloquent,The speaker was so <blank> that everyone in the audience was captivated by his words.,eloquent,silent,confusing,awkward,0,0,0,
+90,endeavor,The team made a great <blank> to complete the project on time despite the challenges.,endeavor,mistake,delay,failure,0,0,0,
+91,enroll,"If you want to take the course, you need to <blank> before the deadline.",enroll,cancel,withdraw,postpone,0,0,0,
+92,erase,Please <blank> the board after the lesson so it is clean for the next class.,erase,write,paint,draw,0,0,0,
+93,esteem,The teacher is held in high <blank> by her students because of her dedication and kindness.,esteem,doubt,fear,confusion,0,0,0,
+94,evaporate,"When the sun shines on a puddle of water, the water will slowly <blank> and disappear into the air.",evaporate,condense,freeze,melt,0,0,0,
+95,excel,She worked very hard to <blank> in her studies and achieve her goals.,excel,fail,struggle,hesitate,0,0,0,
+96,exclamation,"When she saw the surprise party, she let out an excited <blank> of joy.",exclamation,whisper,complaint,question,0,0,0,
+97,execution,The <blank> of the plan was delayed due to unforeseen circumstances.,execution,creation,preparation,discussion,1,1,1,more than one answer
+98,expedition,"The team prepared for their challenging <blank> to the Arctic, where they would face extreme weather conditions.",expedition,vacation,celebration,migration,0,0,0,
+99,exploit,Some companies try to <blank> natural resources without considering the environmental impact.,exploit,preserve,ignore,protect,0,0,0,
+100,extensive,"The library has an <blank> collection of books, covering a wide range of topics and genres.",extensive,limited,narrow,exclusive,1,1,1,a/an issue
+101,facilitate,"The new software was designed to <blank> communication between team members, making collaboration much easier.",facilitate,complicate,hinder,ignore,0,0,0,
+102,faculty,"The university is known for its excellent <blank> in science and technology, attracting students from all over the world.",faculty,library,campus,cafeteria,0,0,0,
+103,fasten,"Before the plane takes off, please <blank> your seatbelt for safety.",fasten,remove,loosen,adjust,0,0,1,more than one answer
+104,feeble,"After being sick for a week, he felt too <blank> to go back to work.",feeble,strong,energetic,sturdy,0,0,0,
+105,fellowship,The university offers a special <blank> to students who want to work together on research projects.,fellowship,scholarship,membership,internship,1,0,1,more than one answer
+106,fiscal,The government announced new <blank> policies to address the country's economic challenges.,fiscal,social,cultural,political,1,0,1,more than one answer
+107,frail,"The old bridge looked <blank> and unsafe, so the city decided to rebuild it.",frail,sturdy,modern,strong,0,0,0,
+108,fright,The loud noise gave her such a <blank> that she dropped the glass she was holding.,fright,joy,relief,surprise,0,0,1,more than one answer
+109,frightful,The weather was so <blank> last night that we decided to stay indoors instead of going out.,frightful,pleasant,calm,ordinary,0,0,0,
+110,fulfillment,Many people find <blank> in helping others and making a positive impact on their lives.,fulfillment,confusion,disappointment,frustration,0,0,0,
+111,fuss,"There was a lot of <blank> over the new policy, even though it didn’t affect most people.",fuss,joy,silence,agreement,1,0,0,more than one answer
+112,gasp,"When the magician made the rabbit disappear, the audience let out a collective <blank> of surprise.",gasp,cheer,whisper,shout,1,0,1,more than one answer
+113,glimpse,"Through the open door, I caught a quick <blank> of the beautiful garden outside.",glimpse,view,scene,look,1,0,0,more than one answer
+114,gracious,The host was very <blank> and made everyone feel welcome at the party.,gracious,rude,awkward,distant,0,0,0,
+115,gradual,The changes in the weather were so <blank> that most people didn’t notice them at first.,gradual,sudden,immediate,unexpected,1,1,1,more than one answer
+116,grave,The situation was so serious that everyone understood the <blank> consequences of their actions.,grave,light,funny,minor,0,0,0,
+117,gross,The movie was so <blank> that I couldn't even finish watching it.,gross,boring,funny,exciting,1,0,0,more than one answer
+118,grumble,"Whenever the teacher gave us too much homework, some students would <blank> quietly under their breath.",grumble,cheer,apologize,whisper,0,0,0,
+119,hasty,He made a <blank> decision without thinking about the possible consequences.,hasty,careful,deliberate,thoughtful,0,0,0,
+120,heighten,The purpose of the new policy is to <blank> awareness about environmental issues among students.,heighten,reduce,ignore,weaken,0,0,0,
+121,hindrance,The heavy rain was a major <blank> to the progress of the construction project.,hindrance,advantage,solution,opportunity,0,0,0,
+122,honorable,"The mayor was praised for his <blank> actions during the crisis, as he always put the needs of the people first.",honorable,selfish,reckless,dishonest,0,0,0,
+123,honorary,The professor was given an <blank> degree by the university for his contributions to science.,honorary,temporary,ordinary,voluntary,1,0,1,a/an issue
+124,horrible,The weather was so <blank> yesterday that we decided to stay indoors all day.,horrible,pleasant,amazing,comfortable,0,0,0,
+125,idle,"During the long power outage, the machines remained <blank> for hours.",idle,active,broken,busy,0,0,0,
+126,implicit,"The teacher's instructions were <blank>, so the students had to figure out the details on their own.",implicit,explicit,confusing,unclear,0,1,1,more than one answer
+127,implore,The villagers decided to <blank> the mayor to provide more resources after the storm caused severe damage.,implore,ignore,demand,persuade,0,0,1,more than one answer
+128,impulsive,He made an <blank> decision to buy the car without thinking about the cost or his budget.,impulsive,calculated,deliberate,hesitant,1,1,1,a/an issue
+129,inclination,"She has a natural <blank> to help others, always offering support whenever someone is in need.",inclination,hesitation,obligation,restriction,0,0,0,
+130,incorporate,The teacher encouraged the students to <blank> their own ideas into the group project to make it more creative.,incorporate,separate,exclude,remove,0,0,0,
+131,indifferent,"He seemed completely <blank> to the news, showing no reaction at all.",indifferent,excited,angry,curious,0,0,0,
+132,indignant,She felt <blank> when she was wrongly accused of breaking the vase.,indignant,grateful,amused,relieved,0,0,0,
+133,induce,"The doctor explained that certain medications can <blank> sleepiness, so it’s important to avoid driving after taking them.",induce,reduce,prevent,ignore,0,0,0,
+134,indulge,"After a long week of work, she decided to <blank> in her favorite dessert as a treat.",indulge,refuse,ignore,sacrifice,0,0,0,
+135,ingenious,"The scientist came up with an <blank> solution to the problem, which saved both time and money.",ingenious,ordinary,confusing,ineffective,0,1,0,a/an issue
+136,inquiry,The customer sent an <blank> to the company to ask about the new product's features.,inquiry,invitation,complaint,announcement,0,1,0,a/an issue
+137,insistence,"Despite her parents' objections, she continued with her plans due to her strong <blank> on following her dreams.",insistence,hesitation,confusion,indifference,0,0,0,
+138,intermediate,"She is no longer a beginner in English; her level is now <blank>, and she can hold conversations with ease.",intermediate,advanced,basic,fluent,1,0,0,more than one answer
+139,intimate,"The restaurant had a very <blank> atmosphere, perfect for a romantic dinner.",intimate,noisy,formal,dull,0,1,0,more than one answer
+140,intrude,Please do not <blank> on private property without permission.,intrude,invite,explore,observe,0,0,0,
+141,keen,She has always been very <blank> on learning new languages and spends hours practicing every day.,keen,bored,indifferent,reluctant,0,0,0,
+142,lean,The tree was so tall that I had to <blank> back to see the top of it.,lean,jump,crawl,sit,0,0,0,
+143,legislature,"The new law was passed by the <blank>, which is responsible for creating and approving legislation.",legislature,courtroom,committee,executive,0,1,0,more than one answer
+144,liable,"If you damage the equipment, you will be <blank> for the cost of repairs.",liable,eligible,capable,suitable,0,0,0,
+145,longitude,The map shows the <blank> and latitude of different locations on Earth.,longitude,altitude,temperature,distance,0,0,0,
+146,lovely,The weather was so <blank> yesterday that we decided to have a picnic in the park.,lovely,stormy,boring,cold,0,0,0,
+147,manifest,The symptoms of the disease did not <blank> until several weeks after the infection.,manifest,vanish,disguise,diminish,1,0,1,more than one answer
+148,mastery,"Achieving <blank> in a skill requires practice, patience, and dedication over time.",mastery,failure,confusion,ignorance,0,0,0,
+149,meddle,It's not polite to <blank> in other people's personal matters without being asked.,meddle,assist,observe,ignore,1,0,0,more than one answer
+150,mediate,The teacher had to <blank> between the two students who were arguing about the project.,mediate,interrupt,compete,observe,0,0,0,
+151,menace,The dark clouds in the sky were a clear <blank> of the approaching storm.,menace,promise,sign,hope,1,1,0,more than one answer
+152,misfortune,"Despite his <blank>, he remained optimistic and continued to work hard to achieve his goals.",misfortune,success,happiness,luck,0,0,0,
+153,missing,I can't find my keys; they seem to be <blank> from the table where I left them.,missing,broken,hidden,stolen,0,0,0,
+154,mixed,"The salad was made with a <blank> variety of fresh vegetables, including lettuce, tomatoes, and cucumbers.",mixed,single,separate,divided,0,0,0,
+155,moan,"After a long day at work, he let out a tired <blank> as he sat down on the couch.",moan,laugh,shout,whisper,0,0,0,
+156,modify,The teacher asked the students to <blank> their essays to make them clearer and more concise.,modify,ignore,delete,repeat,0,0,0,
+157,monstrous,The movie was so <blank> that many people left the theater halfway through because they found it too scary.,monstrous,boring,funny,ordinary,0,0,0,
+158,morale,The manager organized a team-building activity to improve the <blank> of the employees after a challenging week.,morale,salary,schedule,attendance,0,0,0,
+159,mortal,"The hero in the story was not <blank>, which made him relatable to the readers.",mortal,immortal,eternal,divine,1,0,0,more than one answer
+160,mortgage,"To buy their first house, they had to take out a <blank> from the bank.",mortgage,loan,deposit,investment,1,0,1,"a/an issue, more than one answer"
+161,mount,The climbers were excited to <blank> the peak of the mountain after days of hiking.,mount,descend,avoid,ignore,0,0,0,
+162,mow,"Every Saturday, I <blank> the lawn to keep it looking neat and tidy.",mow,trim,water,plant,1,1,0,more than one answer
+163,multitude,"The park was filled with a <blank> of colorful flowers, making it a beautiful place to visit.",multitude,scarcity,absence,handful,0,1,0,a/an issue
+164,municipal,The local government is responsible for providing <blank> services such as waste collection and public transportation.,municipal,private,international,commercial,0,0,0,
+165,mutual,They developed a <blank> respect for each other after working together on the project.,mutual,individual,temporary,casual,1,0,0,a/an issue
+166,naive,"She was so <blank> that she believed everything he said, even though it was clearly untrue.",naive,cautious,suspicious,experienced,0,0,0,
+167,neat,Her handwriting is so <blank> that everyone can read it without any trouble.,neat,messy,unclear,complicated,0,0,0,
+168,note,Please leave a <blank> on my desk if you have any questions about the project.,note,book,card,letter,0,0,1,more than one answer
+169,noticeable,The changes in the design were so <blank> that everyone immediately noticed them.,noticeable,invisible,ordinary,confusing,0,0,0,
+170,numb,"After sitting in the same position for hours, my legs started to feel <blank>, and I couldn't move them properly.",numb,weak,stiff,sore,0,1,1,more than one answer
+171,oath,"Before taking office, the president must swear an <blank> to uphold the constitution.",oath,agreement,promise,contract,0,1,1,a/an issue
+172,objection,"The lawyer raised an <blank> to the evidence presented in court, arguing that it was not relevant to the case.",objection,agreement,approval,suggestion,0,0,1,a/an issue
+173,obliged,"In some cultures, people feel <blank> to help their neighbors in times of need.",obliged,relaxed,unwilling,indifferent,0,1,0,more than one answer
+174,obscure,The meaning of the old text was difficult to understand because the handwriting was so <blank>.,obscure,clear,bright,famous,0,0,0,
+175,offend,"He didn’t mean to <blank> anyone with his comments, but some people found them inappropriate.",offend,praise,entertain,confuse,0,0,1,more than one answer
+176,offensive,"Some people found his comments during the meeting to be quite <blank>, as they were rude and disrespectful.",offensive,polite,helpful,neutral,0,0,0,
+177,omit,Please make sure not to <blank> any important details when filling out the form.,omit,include,repeat,highlight,0,0,0,
+178,opponent,"During the chess match, he carefully studied his <blank> to predict their next move.",opponent,teammate,spectator,referee,0,0,0,
+179,outward,"The train was heading <blank> from the city, taking passengers to the countryside.",outward,inward,upward,backward,0,0,0,
+180,overflow,"After the heavy rain, the river began to <blank> and flood the nearby fields.",overflow,collapse,freeze,shrink,0,0,0,
+181,overlook,"From the balcony, you can <blank> the beautiful valley and the river flowing through it.",overlook,ignore,block,miss,0,0,0,
+182,overtake,The red car was going so fast that it managed to <blank> all the other vehicles on the highway.,overtake,follow,approach,avoid,0,0,0,
+183,overthrow,The rebels planned to <blank> the government and take control of the country.,overthrow,support,protect,negotiate,0,0,0,
+184,page,Please turn to the next <blank> in your book to continue reading the story.,page,chapter,cover,paragraph,1,0,0,more than one answer
+185,pant,"After running up the hill, he began to <blank> heavily, trying to catch his breath.",pant,shout,whisper,laugh,0,0,0,
+186,perpetual,"The clock in the old tower is famous for its <blank> motion, never stopping even after hundreds of years.",perpetual,temporary,occasional,irregular,0,0,0,
+187,persecute,"Throughout history, many groups have been unfairly <blank> because of their beliefs or backgrounds.",persecute,protect,celebrate,ignore,0,0,0,
+188,persecution,Many people fled their country to escape <blank> and find safety elsewhere.,persecution,celebration,protection,cooperation,0,0,0,
+189,pertinent,The teacher asked the students to only include information that is <blank> to the topic in their essays.,pertinent,irrelevant,random,confusing,0,0,0,
+190,pinch,"To make the soup taste better, just add a <blank> of salt before serving.",pinch,drop,slice,spoon,0,0,1,more than one answer
+191,plea,The lawyer made a <blank> to the judge for a lighter sentence for his client.,plea,claim,demand,offer,0,0,1,a/an issue
+192,plead,The lawyer stood up to <blank> with the judge for a lighter sentence for his client.,plead,argue,demand,propose,1,0,0,more than one answer
+193,plunge,"The temperature is expected to <blank> sharply tonight, so make sure to wear warm clothes.",plunge,rise,remain,increase,0,0,0,
+194,plural,"In English, nouns that refer to more than one item are written in the <blank> form.",plural,singular,general,abstract,0,0,0,
+195,poke,"Be careful not to <blank> the bear with a stick, as it might get angry.",poke,pat,pull,push,0,0,1,more than one answer
+196,pose,The photographer asked the model to <blank> in a way that showed confidence and elegance.,pose,stand,move,sit,1,1,1,more than one answer
+197,postal,I need to go to the <blank> office to send this package to my friend.,postal,bank,train,grocery,0,0,0,
+198,posture,Good <blank> is important when sitting at a desk for long hours to avoid back pain.,posture,gesture,position,movement,0,0,0,
+199,preach,The teacher always tries to <blank> kindness and understanding to her students.,preach,ignore,demand,avoid,0,0,0,
+200,preclude,The heavy rain did not <blank> us from going on our planned hike in the mountains.,preclude,encourage,assist,permit,0,0,0,
+201,prescription,The doctor gave me a <blank> so I could buy the medicine I need from the pharmacy.,prescription,description,subscription,permission,0,0,0,
+202,preside,The judge was chosen to <blank> over the court proceedings to ensure fairness and order.,preside,observe,assist,attend,0,0,0,
+203,prime,The <blank> reason for their success is their ability to work as a team and support each other.,prime,minor,secondary,average,1,1,0,more than one answer
+204,proclamation,The president made a formal <blank> to announce the new policy changes to the public.,proclamation,discussion,argument,observation,0,0,0,
+205,profound,"The speaker's words had a <blank> impact on the audience, leaving them deep in thought.",profound,minor,confusing,temporary,0,0,0,
+206,prohibit,The school decided to <blank> the use of mobile phones during class to help students focus better.,prohibit,allow,encourage,promote,0,0,0,
+207,promote,The school organized a campaign to <blank> healthy eating habits among students.,promote,ignore,prevent,discourage,0,0,0,
+208,proposition,The lawyer presented a strong <blank> to support his client's case in court.,proposition,objection,assumption,conclusion,1,0,0,more than one answer
+209,prosecute,The lawyer explained that they would <blank> the suspect if there was enough evidence to prove the crime.,prosecute,defend,release,pardon,0,0,0,
+210,prosperous,The city became very <blank> after the discovery of gold in the nearby mountains.,prosperous,ordinary,desolate,chaotic,0,0,1,more than one answer
+211,provision,The school made special <blank> for students with disabilities to ensure they could participate in all activities.,provision,decision,restriction,condition,0,0,0,
+212,quotation,The teacher asked the students to include a famous <blank> in their essays to support their arguments.,quotation,question,statement,comment,0,0,0,
+213,radiant,"The bride looked absolutely <blank> in her wedding dress, glowing with happiness and beauty.",radiant,dull,ordinary,gloomy,0,0,0,
+214,radical,The new government introduced a <blank> change in the education system to improve learning outcomes.,radical,minor,traditional,gradual,1,0,1,more than one answer
+215,raid,The police conducted a <blank> on the house to search for stolen goods.,raid,visit,inspection,journey,0,1,0,a/an issue
+216,rapture,The children screamed with <blank> when they saw the fireworks light up the night sky.,rapture,confusion,boredom,fear,0,0,0,
+217,rear,"The car's trunk is located at the <blank> of the vehicle, where you can store your luggage.",rear,front,side,top,0,0,0,
+218,reassure,The teacher tried to <blank> the students that the test would not be too difficult.,reassure,confuse,frighten,ignore,0,0,0,
+219,rebel,The young soldier decided to <blank> against the unfair orders given by his commander.,rebel,obey,support,assist,0,0,0,
+220,recall,I can't <blank> where I put my keys this morning.,recall,forget,ignore,imagine,0,0,0,
+221,recollect,I can't <blank> where I put my keys this morning. I've been looking for them everywhere.,recollect,predict,imagine,forget,0,0,0,
+222,reconstruct,"After the storm destroyed the old bridge, the city decided to <blank> it to ensure safe travel for everyone.",reconstruct,demolish,abandon,decorate,0,0,0,
+223,reddish,The sunset painted the sky in beautiful shades of orange and <blank>.,reddish,bluish,yellowish,greenish,0,0,0,
+224,refine,"The chef worked hard to <blank> the recipe, making it even better than before.",refine,ignore,ruin,simplify,0,0,0,
+225,regime,The new government introduced a strict <blank> to improve the country's economy.,regime,routine,agenda,policy,0,0,1,more than one answer
+226,regrettable,It was a <blank> mistake to cancel the event without informing everyone in advance.,regrettable,acceptable,intentional,unavoidable,0,1,1,a/an issue
+227,rejoice,"After hearing the good news, the whole family gathered to <blank> together.",rejoice,argue,mourn,complain,0,0,0,
+228,relieved,"After hearing the good news, she felt so <blank> that she couldn't stop smiling.",relieved,confused,nervous,angry,0,0,0,
+229,render,The new software can <blank> high-quality images in just a few seconds.,render,delete,capture,store,0,1,1,more than one answer
+230,reorganize,The manager asked the team to <blank> the files so that they would be easier to find.,reorganize,delete,misplace,scatter,0,0,0,
+231,reproach,"He looked at her with a mix of disappointment and <blank>, clearly upset by her actions.",reproach,admiration,gratitude,indifference,0,0,0,
+232,resentment,She couldn't hide her <blank> when she found out her colleague got the promotion she wanted.,resentment,happiness,excitement,gratitude,1,0,0,more than one answer
+233,reside,Many students <blank> in the dormitories provided by the university during their studies.,reside,travel,visit,explore,0,0,0,
+234,resonance,"The speech had a strong emotional <blank> with the audience, leaving many people deeply moved.",resonance,confusion,distance,disconnection,0,0,0,
+235,resort,"During the summer, many families choose to stay at a beach <blank> to enjoy the sun and the sea.",resort,station,village,market,0,0,0,
+236,respectable,"The teacher is a very <blank> person, and all the students admire her for her fairness and kindness.",respectable,unfriendly,dishonest,careless,0,0,0,
+237,respective,The students were asked to return to their <blank> seats after the break.,respective,random,shared,opposite,0,0,0,
+238,restoration,"The museum is currently closed for the <blank> of its historic building, which has been damaged over time.",restoration,destruction,construction,removal,0,0,0,
+239,revelation,The scientist's discovery was a surprising <blank> that changed the way we understand the universe.,revelation,confusion,assumption,mistake,0,0,0,
+240,revolve,The planets in our solar system <blank> around the Sun in elliptical orbits.,revolve,rotate,float,scatter,1,0,0,more than one answer
+241,rigid,"The rules of the competition were very <blank>, leaving no room for flexibility or exceptions.",rigid,lenient,unclear,flexible,0,0,0,
+242,rosy,"After spending the day hiking in the mountains, her cheeks looked <blank> and healthy.",rosy,pale,dull,gray,0,0,0,
+243,royal,The castle was built to serve as a <blank> residence for the king and queen.,royal,public,modern,temporary,0,0,1,more than one answer
+244,sanction,The government decided to impose a <blank> on the company for violating environmental laws.,sanction,reward,permit,discount,0,0,0,
+245,savage,The explorers were warned about the <blank> animals that lived in the dense jungle.,savage,gentle,friendly,timid,0,0,0,
+246,scan,"Before entering the building, you need to <blank> your ID card at the security desk.",scan,write,show,copy,0,1,0,more than one answer
+247,sensible,"It’s important to make a <blank> decision when choosing a career path, as it can affect your future.",sensible,reckless,random,emotional,0,0,1,a/an issue
+248,sensitive,"He is very <blank> to criticism, so please be careful with your words.",sensitive,confident,careless,indifferent,0,0,0,
+249,sheer,"The hikers were amazed by the <blank> size of the mountain, which seemed to rise endlessly into the sky.",sheer,tiny,moderate,narrow,0,0,0,
+250,simultaneous,"The two events were <blank>, happening at exactly the same time in different locations.",simultaneous,separate,delayed,random,0,0,0,
+251,smear,The child accidentally made a <blank> of paint on the wall while playing with the brushes.,smear,scratch,stain,mark,0,1,1,more than one answer
+252,soar,"As the sun set, we watched the birds <blank> high into the sky, disappearing into the clouds.",soar,crawl,sink,stumble,0,0,0,
+253,sober,"After the party, he decided to stay <blank> and drink only water.",sober,drunk,tired,confused,0,0,0,
+254,solemn,The atmosphere in the room was <blank> as everyone gathered to pay their respects during the ceremony.,solemn,cheerful,chaotic,casual,0,0,0,
+255,sore,"After running the marathon, my legs felt very <blank> and I could barely walk.",sore,strong,relaxed,numb,0,0,1,more than one answer
+256,sovereign,"The country declared itself a <blank> state, free from any external control or influence.",sovereign,dependent,subordinate,restricted,0,0,0,
+257,spectacle,The fireworks display was such an amazing <blank> that everyone in the crowd was left speechless.,spectacle,incident,routine,mystery,0,0,0,
+258,spectacular,"The view from the top of the mountain was absolutely <blank>, with the sunset painting the sky in vibrant colors.",spectacular,ordinary,boring,dull,0,0,0,
+259,speculate,"Without enough evidence, we can only <blank> about what might have happened.",speculate,confirm,ignore,describe,0,0,0,
+260,splendor,"The palace was known for its incredible <blank>, attracting visitors from all over the world.",splendor,simplicity,darkness,poverty,1,0,0,more than one answer
+261,stab,"The thief tried to <blank> the man with a knife, but he was stopped by the police in time.",stab,hit,push,grab,0,0,0,
+262,stale,The bread was left out for too long and now it tastes <blank>.,stale,fresh,soft,sweet,0,0,0,
+263,static,The image on the screen remained <blank> even after adjusting the settings.,static,dynamic,blurry,vivid,0,1,0,more than one answer
+264,stem,The <blank> of the plant is usually green and supports the leaves and flowers.,stem,root,branch,trunk,0,1,0,more than one answer
+265,stern,The teacher gave the students a <blank> warning about the importance of completing their homework on time.,stern,gentle,casual,vague,1,1,1,more than one answer
+266,subdue,The firefighters worked hard to <blank> the flames before they spread to nearby houses.,subdue,ignite,provoke,release,0,0,0,
+267,subject,"In school, my favorite <blank> is mathematics because I enjoy solving problems.",subject,object,topic,lesson,0,0,1,more than one answer
+268,substantial,"The new policy will bring <blank> changes to the way the company operates, affecting all departments.",substantial,minor,temporary,insignificant,0,0,0,
+269,subtract,"To find the correct answer, you need to <blank> the smaller number from the larger one.",subtract,add,multiply,divide,0,0,1,more than one answer
+270,supervision,The children were playing safely under the <blank> of their teacher during the school trip.,supervision,attention,observation,guidance,0,0,1,more than one answer
+271,surpass,The new smartphone model is expected to <blank> the previous one in terms of speed and performance.,surpass,match,reduce,delay,1,0,0,more than one answer
+272,symptom,"If you have a fever and a sore throat, these could be a <blank> of the flu.",symptom,solution,cure,cause,0,0,0,
+273,tame,The lion in the zoo is very calm because it has been <blank> by its trainers.,tame,wild,fierce,dangerous,0,0,0,
+274,tender,The meat was so <blank> that it practically melted in my mouth.,tender,tough,dry,hard,0,0,0,
+275,tentative,"The meeting schedule is still <blank>, as we are waiting for confirmation from all participants.",tentative,final,permanent,definite,0,0,0,
+276,terrific,"The view from the top of the mountain was absolutely <blank>, and we couldn't stop taking pictures.",terrific,ordinary,boring,terrible,0,0,0,
+277,testimony,The lawyer presented the witness's <blank> in court to support his case.,testimony,opinion,story,argument,1,1,1,more than one answer
+278,torture,The movie was so scary that watching it felt like <blank> for some of the audience.,torture,pleasure,relief,comfort,0,0,0,
+279,transmission,The <blank> of information from one person to another is essential for effective communication.,transmission,translation,transportation,transformation,0,0,0,
+280,trespass,"The sign on the fence clearly says 'No <blank>,' so we should not enter the private property.",trespass,access,permission,entry,1,0,1,more than one answer
+281,tribute,The statue was built as a <blank> to honor the soldiers who fought in the war.,tribute,symbol,reminder,gift,1,1,0,more than one answer
+282,triumph,"Winning the championship was a great <blank> for the team, as they had worked so hard all season.",triumph,failure,struggle,mistake,0,0,0,
+283,trivial,The teacher reminded the students not to waste time on <blank> details and to focus on the main points of the lesson.,trivial,important,complex,relevant,0,1,0,more than one answer
+284,tyranny,The citizens fought bravely to end the <blank> that had controlled their country for decades.,tyranny,freedom,democracy,justice,0,0,0,
+285,unanimous,"The decision to build the new park was <blank>, as everyone agreed it was a great idea.",unanimous,controversial,divided,uncertain,0,0,0,
+286,undo,"If you make a mistake while typing, you can always <blank> it by pressing the correct button.",undo,repeat,delete,skip,0,0,0,
+287,undue,The teacher reminded the students to avoid placing <blank> pressure on themselves before the exams.,undue,extreme,necessary,limited,1,0,0,more than one answer
+288,upset,She looked very <blank> after hearing the bad news about her exam results.,upset,excited,relaxed,confused,0,0,1,more than one answer
+289,urge,The teacher tried to <blank> the students to participate in the charity event by explaining its importance.,urge,ignore,discourage,prevent,0,0,0,
+290,utter,He was so nervous during the interview that he could barely <blank> a single word.,utter,write,shout,whisper,0,0,0,
+291,vague,The instructions he gave were so <blank> that nobody knew exactly what to do.,vague,clear,specific,detailed,0,0,0,
+292,variation,The teacher explained that there is often a slight <blank> in the way people pronounce the same word in different regions.,variation,confusion,repetition,translation,0,0,0,
+293,veil,The bride wore a beautiful white dress and a delicate <blank> over her face during the ceremony.,veil,scarf,hat,mask,0,0,0,
+294,vicinity,"There are several good restaurants in the <blank> of the hotel, so you don’t need to travel far for a meal.",vicinity,center,distance,region,1,0,0,more than one answer
+295,vicious,"The dog became <blank> when it felt threatened, growling and baring its teeth.",vicious,friendly,calm,playful,0,0,0,
+296,vigor,"After a good night's sleep, she woke up feeling full of <blank> and ready to start the day.",vigor,laziness,confusion,sadness,0,0,0,
+297,vocation,"She always felt that teaching was her true <blank>, as it brought her immense joy and satisfaction.",vocation,hobby,habit,occupation,0,0,1,
+298,wanting,"After the long hike, she was really <blank> a cold drink to refresh herself.",wanting,avoiding,ignoring,rejecting,0,0,0,
+299,witness,The police are looking for someone who was a <blank> to the accident and can provide more information.,witness,suspect,victim,offender,0,0,1,a/an issue
+300,wreck,The divers discovered the <blank> of an old ship at the bottom of the ocean.,wreck,treasure,map,island,1,0,0,more than one answer
